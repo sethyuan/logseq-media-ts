@@ -22,6 +22,50 @@ Create timestamps for audio and video to facilitate your learning and meeting re
 
 ## Usage
 
+### How to insert video/audio
+
+### How to insert single time point timestamps
+
+### How to insert ranged timestamps
+
+### How to specify the number of times to play and the interval between each play
+
+### How to insert and use the control bar
+
+## Timestamp Syntax Reference
+
+### Single time point
+
+Not attached to any particular media:
+
+```
+{{renderer :media-timestamp, time}}
+```
+
+Attached to a specific media:
+
+```
+{{renderer :media-timestamp, time, ((media block ref))}}
+```
+
+### Ranged
+
+Not attached to any particular media:
+
+```
+{{renderer :media-timestamp, from, to, [play-count], [interval-between-each-play]}}
+```
+
+Attached to a specific media:
+
+```
+{{renderer :media-timestamp, from, to, [play-count], [interval-between-each-play], ((media block ref))}}
+```
+
+`play-count` defaults to `1`.
+
+`interval-between-each-play` is in seconds and it defaults to `1`.
+
 ## Join the community
 
 Join the Discord channel [here](https://discord.gg/vMS3x5QRVx) where we discuss everything related to the plugin.
