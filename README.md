@@ -66,6 +66,16 @@ Attached to a specific media:
 
 `interval-between-each-play` is in seconds and it defaults to `1`.
 
+## Control bar syntax reference
+
+```
+{{renderer :media-ts-control, interval, [filter tag]}}
+```
+
+`interval` is interval to wait between each timestamp.
+
+`filter tag` is a tag in the syntax `[[tag]]` to filter which timestamps to play, only timestamps on those blocks with the specified tag will be played. If no filter tag is provided, all timestamps on the screen will be played.
+
 ## Join the community
 
 Join the Discord channel [here](https://discord.gg/vMS3x5QRVx) where we discuss everything related to the plugin.
