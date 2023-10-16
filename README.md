@@ -24,13 +24,23 @@ Create timestamps for audio and video to facilitate your learning and meeting re
 
 ### How to insert video/audio
 
+https://github.com/sethyuan/logseq-media-ts/assets/3410293/74a877f3-ee30-40a2-83ae-259a99feb0a1
+
 ### How to insert single time point timestamps
+
+https://github.com/sethyuan/logseq-media-ts/assets/3410293/27a8191d-2919-4ef8-bfbc-f2d5398d65f4
 
 ### How to insert ranged timestamps
 
+https://github.com/sethyuan/logseq-media-ts/assets/3410293/56e604cd-0f60-496b-85ab-ac7e79cf85b3
+
 ### How to specify the number of times to play and the interval between each play
 
+https://github.com/sethyuan/logseq-media-ts/assets/3410293/a1e85608-22ef-4fb7-b17a-514f4599f634
+
 ### How to insert and use the control bar
+
+https://github.com/sethyuan/logseq-media-ts/assets/3410293/21919b82-77fc-4158-a6a0-5bad7978bf0d
 
 ## Timestamp Syntax Reference
 
