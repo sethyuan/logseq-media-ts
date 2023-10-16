@@ -24,13 +24,23 @@
 
 ### 如何插入音视频
 
+https://github.com/sethyuan/logseq-media-ts/assets/3410293/74a877f3-ee30-40a2-83ae-259a99feb0a1
+
 ### 如何插入单一时间点的时间戳
+
+https://github.com/sethyuan/logseq-media-ts/assets/3410293/27a8191d-2919-4ef8-bfbc-f2d5398d65f4
 
 ### 如何插入范围时间戳
 
+https://github.com/sethyuan/logseq-media-ts/assets/3410293/56e604cd-0f60-496b-85ab-ac7e79cf85b3
+
 ### 如何指定播放次数以及播放间隔时间
 
+https://github.com/sethyuan/logseq-media-ts/assets/3410293/a1e85608-22ef-4fb7-b17a-514f4599f634
+
 ### 如何插入及使用控制条
+
+https://github.com/sethyuan/logseq-media-ts/assets/3410293/21919b82-77fc-4158-a6a0-5bad7978bf0d
 
 ## 时间戳语法参考
 
