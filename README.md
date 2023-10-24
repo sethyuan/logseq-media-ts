@@ -10,7 +10,7 @@ Create timestamps for audio and video to facilitate your learning and meeting re
 - Quickly generate audio/video timestamps, click the timestamp to jump to the corresponding time of the audio/video.
 - Timestamps support time range, clicking a timestamp will play from the specified start time to the specified end time. (Bilibili not supported)
 - The playback count can be set on the ranged timestamp, which is a convenient repeater.
-- A timestamp player can be inserted on the page, through which you can filter the timestamps to be played as well as their playing.
+- A timestamp player can be inserted on the page, through which you can filter the timestamps to be played as well as their playing. Looping is also supported.
 
 ## How to Install
 
