@@ -42,6 +42,8 @@ https://github.com/sethyuan/logseq-media-ts/assets/3410293/a1e85608-22ef-4fb7-b1
 
 https://github.com/sethyuan/logseq-media-ts/assets/3410293/21919b82-77fc-4158-a6a0-5bad7978bf0d
 
+The control bar supports enable looping now.
+
 ## Timestamp Syntax Reference
 
 ### Single time point
