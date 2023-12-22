@@ -14,7 +14,7 @@ Create timestamps for audio and video to facilitate your learning and meeting re
 
 ## How to Install
 
-1. Download the newest zip file from the [Releases](https://github.com/sethyuan/logseq-hierarchy-jump/releases) page.
+1. Download the newest zip file from the [Releases](https://github.com/sethyuan/logseq-media-ts/releases) page.
 1. Unzip the zip file into the folder where you want to store the plugin.
 1. Turn on the developer mode in Logseq. ![](./assets/developer_mode.png)
 1. Load the unzipped folder (named `logseq-media-ts-pro`) by clicking on the `Load unpacked plugin` button on the plugins modal. ![](./assets/load_plugin.png)
