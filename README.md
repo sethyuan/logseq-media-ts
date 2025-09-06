@@ -1,5 +1,9 @@
 English | [中文](README.zh.md)
 
+> ⚠️ **Warning**
+> 
+> This plugin is not compatible with Logseq DB versions!
+
 # logseq-media-ts-pro
 
 Create timestamps for audio and video to facilitate your learning and meeting reviews.
