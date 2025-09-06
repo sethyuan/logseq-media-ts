@@ -1,5 +1,9 @@
 [English](README.md) | 中文
 
+> ⚠️ **警告**
+> 
+> 此插件与Logseq DB版本不兼容！
+
 # logseq-media-ts-pro
 
 为音视频建立时间戳，方便您学习、复盘会议或是复读。
